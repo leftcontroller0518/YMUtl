@@ -25,4 +25,4 @@ YMUtlとは、YMM4・AviUtl/AviUtl2ユーザーが交流する非公式のSNSで
 > 機能が実装しきれていない部分や、バグなどが多数あります。予めご了承ください。
 
 ### その他
-利用規約・プライバシーポリシーは[こちら]()。
+利用規約・プライバシーポリシーは[こちら](https://github.com/leftcontroller0518/YMUtl/blob/main/Terms-of-Service-and-Privacy-Policy.md)。
