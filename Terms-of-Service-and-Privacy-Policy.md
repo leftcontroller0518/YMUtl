@@ -47,7 +47,7 @@
     
 - **Amazon.co.jp：** アフィリエイトプログラム（当サイトはAmazonアソシエイト・プログラムの参加者です）。
     
-- **YouTube API：** 将来的にYouTube連携を導入する場合、ユーザーは[Googleプライバシーポリシー](http://www.google.com/intl/ja/policies/privacy/)および[YouTube利用規約](https://www.youtube.com/t/terms)に同意するものとします。
+- **YouTube API：** ユーザーは[Googleプライバシーポリシー](http://www.google.com/intl/ja/policies/privacy/)および[YouTube利用規約](https://www.youtube.com/t/terms)に同意するものとします。
     
 
 ---
