@@ -7,7 +7,9 @@ YMM4とAviUtl/AviUtl2の情報共有をするSNS
 
 ## YMUtlとは？
 YMUtlとは、YMM4・AviUtl/AviUtl2ユーザーが交流する非公式のSNSです。
+
 制作者：左コントローラー
+
 協力者：[ゆっくりなぢ](https://github.com/yukkurinadi)
 
 ## 何ができる？
